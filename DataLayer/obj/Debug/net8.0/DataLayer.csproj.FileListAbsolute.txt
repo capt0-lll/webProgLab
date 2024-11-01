@@ -1,0 +1,14 @@
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\bin\Debug\net8.0\DataLayer.dll
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.dll
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+E:\Навчання\4.1\Web Пр\lab1\webapp\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
